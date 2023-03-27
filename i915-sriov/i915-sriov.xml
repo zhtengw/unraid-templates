@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+  <PluginURL>https://raw.githubusercontent.com/zhtengw/unraid-i915-sriov/master/i915-sriov.plg</PluginURL>
+  <PluginAuthor>zhtengw</PluginAuthor>
+  <Beta>True</Beta>
+  <Category>Productivity: Tools:System Drivers:</Category>
+  <Name>Intel i915 SR-IOV</Name>
+  <Description>Intel Graphics SR-IOV is Intel's latest virtualization technology for graphics. Single Root I/O Virtualization (SR-IOV) defines a standard method for sharing a physical device function by partitioning the device into multiple virtual functions. Each virtual function is directly assigned to a virtual machine, thereby achieving near-native performance for the virtual machine. 
+  Check the link below to confirm if your integrated graphics support SR-IOV.
+  https://www.intel.com/content/www/us/en/support/articles/000093216/graphics.html</Description>
+  <Support>https://forums.unraid.net/topic/136621-unraid-kernel-with-igpu-sr-iov-support/</Support>
+  <Icon>https://raw.githubusercontent.com/zhtengw/unraid-templates/master/i915-sriov/intel-sr-iov.png</Icon>
+  <DonateText>If you like my work please consider buying me a coffee or supporting testing hardware.</DonateText>
+  <DonateLink>https://paypal.me/zhtengw</DonateLink>
+</Containers>
